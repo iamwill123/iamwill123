@@ -1,9 +1,10 @@
 [![iamwills banner image](./assets/github-banner.jpeg)](https://supwill.dev)
 
-### Hi there I'm William Pei Yuan 👋
+### Hi there I'm William Pei Yuan 👋, husband to my beautfiul wife, Stephanie Del Rio & proud father to my newborn baby girl 👶 Ariana.
 
 - 🔭 I’m currently working on PWAs
 - 🌱 I’m currently learning Docker
+- 🤖 exploring IOT w/ raspberry pi zero & arduino kits
 <!-- - 👯 I’m looking to collaborate on work projects -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything
