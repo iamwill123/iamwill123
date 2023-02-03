@@ -4,9 +4,9 @@
 ### husband to my beautfiul wife, Stephanie Del Rio 
 ### && proud father to my 8mon baby girl Ariana 👶
 
-- 🔭 I’m currently working on PWAs
-- 🌱 I’m currently learning Docker
-- 🤖 exploring IOT w/ raspberry pi zero & arduino kits
+- 🔭 I’m currently working nothing interesting at the momemnt :)
+- 🌱 I’m currently learning DSAs
+<!-- - 🤖 I enjoy exploring IOT w/ raspberry pi zero & arduino kits -->
 <!-- - 👯 I’m looking to collaborate on work projects -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything
