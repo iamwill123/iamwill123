@@ -1,6 +1,8 @@
 [![iamwills banner image](./assets/github-banner.jpeg)](https://supwill.dev)
 
-### Hi there I'm William Pei Yuan 👋, husband to my beautfiul wife, Stephanie Del Rio & proud father to my newborn baby girl 👶 Ariana.
+### Hi there I'm William Pei Yuan 👋, 
+### husband to my beautfiul wife, Stephanie Del Rio 
+### && proud father to my 8mon baby girl Ariana 👶
 
 - 🔭 I’m currently working on PWAs
 - 🌱 I’m currently learning Docker
