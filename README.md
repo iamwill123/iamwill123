@@ -3,7 +3,7 @@
 ## Hi there I'm William Pei Yuan 👋
 ### husband & a father 👶
 
-- 🔭 I’m currently working nothing interesting at the momemnt :)
+- 🔭 I’m currently working on nothing interesting.
 - 🌱 I’m currently learning DSAs
 <!-- - 🤖 I enjoy exploring IOT w/ raspberry pi zero & arduino kits -->
 <!-- - 👯 I’m looking to collaborate on work projects -->
