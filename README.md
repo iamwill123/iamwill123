@@ -1,7 +1,8 @@
 [![iamwills banner image](./assets/github-banner.jpeg)](https://supwill.dev)
 
 ## William Pei Yuan
-- Living in Tampa Florida 🌴
+- Currently in Tampa Florida 🌴 for X amt of 🕒
+- A digital nomad and vagabond at heart ✈️
 - Single girl dad 👧🏻
 
 ### Digital nomad [@Articulate](https://articulate.com/)
