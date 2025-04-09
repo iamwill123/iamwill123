@@ -10,9 +10,15 @@
 - Amazing work + life balance 🧘
 - Fulfilling and impactful work to the E-learning tech space
 
-### Side projects
-- 🌱 Currently working on [mypickleball.app](https://mypickleball.app/)
-  - sd
+Got it! Here's an updated version of the markdown section you shared, expanded to better reflect your current side project:
+
+### Side Projects  
+- 🌱 Currently working on [mypickleball.app](https://mypickleball.app/)  
+  - A responsive app built for organizing and tracking local pickleball games.  
+  - Features include game format customization, player management, and score logging with DUPR integration.  
+  - Built with React, TypeScript, and Tailwind CSS — focused on simplicity, speed, and community use.  
+  - The project is evolving based on real-world playtesting and feedback from local players and organizers.  
+  - Try it live or reach out with ideas or bugs: support@mypickleball.app  
 
 ### Contact
 - 💬 You can ask me about anything
