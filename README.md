@@ -11,8 +11,6 @@
 - Amazing work + life balance 🧘
 - Fulfilling and impactful work to the E-learning tech space
 
-Got it! Here's an updated version of the markdown section you shared, expanded to better reflect your current side project:
-
 ### Side Projects  
 - 🌱 Currently working on [mypickleball.app](https://mypickleball.app/)  
   - A responsive app built for organizing and tracking local pickleball games.  
