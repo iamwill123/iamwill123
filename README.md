@@ -3,7 +3,6 @@
 ## William Pei Yuan
 - Currently in Tampa Florida 🌴 for X amt of 🕒
 - A digital nomad and vagabond at heart ✈️
-- Single girl dad 👧🏻
 
 ### Digital nomad [@Articulate](https://articulate.com/)
 - Full time Software Engineer
